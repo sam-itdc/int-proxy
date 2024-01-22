@@ -13,5 +13,5 @@ One approach is to establish a reverse proxy - the content by the end is served 
 ## Usage
 For any reference to the internal site (having `http://www.scout.org.mo/INT/`), some modification is required:
 - Original: `http://www.scout.org.mo/INT/api/javascript.php?key=%E4%B8%BB%E9%A1%8C%E5%B8%96%E5%85%A7%E5%AE%B92_Page%E6%97%85%E9%83%A8%E7%B0%A1%E4%BB%8B`
-- Replace `http://www.scout.org.mo/INT/api/` with `https://sam-itdc-int.netlify.app/int/`
+- Replace `http://www.scout.org.mo/INT/api/` with `https://sam-itdc-int.netlify.app/int-api/`
 - https://sam-itdc-int.netlify.app/int/javascript.php?key=%E4%B8%BB%E9%A1%8C%E5%B8%96%E5%85%A7%E5%AE%B92_Page%E6%97%85%E9%83%A8%E7%B0%A1%E4%BB%8B

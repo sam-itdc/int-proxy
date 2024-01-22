@@ -1,1 +1,2 @@
-/int/* http://www.scout.org.mo/INT/api/:splat 200
+/int-api/* http://www.scout.org.mo/INT/api/:splat 200
+/int/* http://www.scout.org.mo/INT/:splat 200
